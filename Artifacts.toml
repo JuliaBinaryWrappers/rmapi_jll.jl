@@ -1,0 +1,115 @@
+[[rmapi]]
+arch = "aarch64"
+git-tree-sha1 = "97e42d33bc696ab5a82c3bf7905437b3492ec653"
+libc = "glibc"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "624126c1c2f28d46fb23b2f631479cf99a9d44b1cfc187bfb4475a3ad5f8e2cc"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.aarch64-linux-gnu.tar.gz"
+[[rmapi]]
+arch = "aarch64"
+git-tree-sha1 = "94026497507ff44f7376f8d41e1be0957a00d6e3"
+libc = "musl"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "ccf9d8a3c3dfab59257fe11c3e82bb246628025cdedd66262c492059857dc91e"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.aarch64-linux-musl.tar.gz"
+[[rmapi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "65286b4e23f1e35b79a3950c5fc16369894848b4"
+libc = "glibc"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "331e6fe6b81240b803def03199e6e03e83ee0df128e8b09084bc889366267013"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.armv7l-linux-gnueabihf.tar.gz"
+[[rmapi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c87dab9312556329f27fe71a353bc31a10587d26"
+libc = "musl"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "bdb03638dbff34236f8ce479be315d8160333b0fa2cbbf2ecf1c4a006c177297"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.armv7l-linux-musleabihf.tar.gz"
+[[rmapi]]
+arch = "i686"
+git-tree-sha1 = "2d8fe427b047177d2383798ab2e846c6fbadf880"
+libc = "glibc"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "6157e5e44dfb799207608a4c02ccaa10fdaa4e92db53a7aa85d3afe2af5501ec"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.i686-linux-gnu.tar.gz"
+[[rmapi]]
+arch = "i686"
+git-tree-sha1 = "e064cd1d14e432c8f8efb6e7ddd37a7a1fbe428d"
+libc = "musl"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "5fa50eeefb6e0a6440e2cabd2809910a31ce92ec49bea26c985183e7fa08fc2f"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.i686-linux-musl.tar.gz"
+[[rmapi]]
+arch = "i686"
+git-tree-sha1 = "c15bd315fe010c7c5593ce47b31802f361f6a5be"
+os = "windows"
+
+    [[rmapi.download]]
+    sha256 = "86f6cf1889f29aead668ac41f90d7fe6345069fc2c1e1ab6c039af41ba091f92"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.i686-w64-mingw32.tar.gz"
+[[rmapi]]
+arch = "powerpc64le"
+git-tree-sha1 = "ac192552a06d02cc662f452e879000c156482cb2"
+libc = "glibc"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "96d0a3468db02999ed8a1aeb0fd9213d3640485a7dbe599942b5e3e665c17768"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.powerpc64le-linux-gnu.tar.gz"
+[[rmapi]]
+arch = "x86_64"
+git-tree-sha1 = "cf156ddad8f3bb6692bbf8c80ca99686255ba9ad"
+os = "macos"
+
+    [[rmapi.download]]
+    sha256 = "8ac3435ad8eb4b5f763c037989f29d21ef30d4c0ad926d1895f8512a86972d39"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.x86_64-apple-darwin.tar.gz"
+[[rmapi]]
+arch = "x86_64"
+git-tree-sha1 = "aa87d7ccf657d2d13d78282054a976149912a7e2"
+libc = "glibc"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "1281988629a9147d009747141c08bba5ffcf61e87da407ea0469b69d46d14dee"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.x86_64-linux-gnu.tar.gz"
+[[rmapi]]
+arch = "x86_64"
+git-tree-sha1 = "888c8868705d785acaf2dbb4ab3c7c3df44245a5"
+libc = "musl"
+os = "linux"
+
+    [[rmapi.download]]
+    sha256 = "b9fcc5cf7f8023f340da8bb5ebfd8ed48072f93a70b0ec8fca3e028ef8160908"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.x86_64-linux-musl.tar.gz"
+[[rmapi]]
+arch = "x86_64"
+git-tree-sha1 = "6a94da11995252a6b004266debba613c3f63583c"
+os = "freebsd"
+
+    [[rmapi.download]]
+    sha256 = "efb1f872755ae25a2134e49738d2ff1536b7e6426d846c0a75853ad17bdf9629"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.x86_64-unknown-freebsd.tar.gz"
+[[rmapi]]
+arch = "x86_64"
+git-tree-sha1 = "abd59a408b965459dbcab8e7565b22385ecc77eb"
+os = "windows"
+
+    [[rmapi.download]]
+    sha256 = "16e81fa23a37994df38eb62b287c788015eaefaedc0a883d5daaf7bbd7ce17ea"
+    url = "https://github.com/JuliaBinaryWrappers/rmapi_jll.jl/releases/download/rmapi-v0.0.13+0/rmapi.v0.0.13.x86_64-w64-mingw32.tar.gz"
